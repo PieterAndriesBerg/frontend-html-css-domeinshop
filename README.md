@@ -26,10 +26,10 @@ Je kunt deze opdracht maken door het project te clonen of te downloaden naar jou
 
 ### 1.1 Projectopzet
 Zorg er eerst voor dat de volgende basis-concepten in orde zijn:
-- [ ] Vervang de placeholder-titel door `Domein.shop`, zodat dit bovenaan het tabblad in de browser staat;
-- [ ] Koppel het CSS-bestand aan `index.html`;
-- [ ] Zet alvast drie semantische elementen (`<header>`-, `<main>`- en `<footer>`) klaar in de body van het HTML-bestand, zodat het duidelijk is hoe de pagina in stukjes verdeeld gaat worden;
-- [ ] Voorzie jouw CSS-bestand van een complete CSS-reset;
+- [x] Vervang de placeholder-titel door `Domein.shop`, zodat dit bovenaan het tabblad in de browser staat;
+- [x] Koppel het CSS-bestand aan `index.html`;
+- [x] Zet alvast drie semantische elementen (`<header>`-, `<main>`- en `<footer>`) klaar in de body van het HTML-bestand, zodat het duidelijk is hoe de pagina in stukjes verdeeld gaat worden;
+- [x] Voorzie jouw CSS-bestand van een complete CSS-reset;
 - [ ] Zet de kleuren (grijs #899CA0 en donkergroen #1C2B32) alvast in commentaar bovenaan het bestand, zodat je ze gemakkelijk kunt kopiëren;
 - [ ] Het gebruikte lettertype in het design is _"Poppins"_. Dit font kun je gratis vinden op Google Fonts. Importeer dit in jouw CSS-bestand en stel de font-family voor de gehele webpagina in. 
 
