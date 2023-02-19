@@ -30,8 +30,8 @@ Zorg er eerst voor dat de volgende basis-concepten in orde zijn:
 - [x] Koppel het CSS-bestand aan `index.html`;
 - [x] Zet alvast drie semantische elementen (`<header>`-, `<main>`- en `<footer>`) klaar in de body van het HTML-bestand, zodat het duidelijk is hoe de pagina in stukjes verdeeld gaat worden;
 - [x] Voorzie jouw CSS-bestand van een complete CSS-reset;
-- [ ] Zet de kleuren (grijs #899CA0 en donkergroen #1C2B32) alvast in commentaar bovenaan het bestand, zodat je ze gemakkelijk kunt kopiëren;
-- [ ] Het gebruikte lettertype in het design is _"Poppins"_. Dit font kun je gratis vinden op Google Fonts. Importeer dit in jouw CSS-bestand en stel de font-family voor de gehele webpagina in. 
+- [x] Zet de kleuren (grijs #899CA0 en donkergroen #1C2B32) alvast in commentaar bovenaan het bestand, zodat je ze gemakkelijk kunt kopiëren;
+- [x] Het gebruikte lettertype in het design is _"Poppins"_. Dit font kun je gratis vinden op Google Fonts. Importeer dit in jouw CSS-bestand en stel de font-family voor de gehele webpagina in. 
 
 ### 1.2 Header
 - [ ] Voeg de titel, tekst en het formulier als HTML toe aan de header. Zorg er hierbij voor dat het uiterlijk van de tekst overeenkomt met voorbeeld;
